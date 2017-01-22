@@ -1,6 +1,45 @@
 ---
-# You don't need to edit this file, it's empty on purpose.
-# Edit theme's home layout instead if you wanna make some changes
-# See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
-layout: home
+layout: default
 ---
+<section id="one" >
+    <div class="container">
+        {% for post in site.posts limit:1 %}
+            <article>
+                <header>
+                    <h2><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h2>
+                </header>
+                <section class="post-content">
+                    {{ post.excerpt }}
+                </section>
+                <section class="special">
+                    <ul class="actions">
+                        <li><a href="{{ site.baseurl }}{{ post.url }}" class="button special">Read More</a></li>
+                    </ul>
+                </section>
+            </article>
+        {% endfor %}
+    </div>
+</section>
+<section>
+    <div class="container">
+        <div class="features">
+        {% for post in site.posts offset:1 %}
+            <article>
+                <section class="excerpt">
+                <header>
+                    <h3><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h3>
+                </header>
+                
+                    {{ post.content | truncatewords: 30 | strip_html }}
+                </section>
+                <footer>
+                    <ul class="actions">
+                        <li><a href="{{ site.baseurl }}{{ post.url }}" class="button">Read More</a></li>
+                    </ul>
+                </footer>
+                <div class="clear"></div>
+            </article>
+        {% endfor %}
+        </div>
+    </div>
+</section>
