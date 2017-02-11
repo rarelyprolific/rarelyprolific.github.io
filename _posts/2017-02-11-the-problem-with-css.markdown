@@ -2,7 +2,6 @@
 layout: post
 title:  "The problem with CSS"
 date:   2017-02-11 12:30:00 +0000
-permalink: "the-problem-with-css"
 ---
 
 As a web developer *(as opposed to a web designer)* I have a love/hate relationship with CSS.

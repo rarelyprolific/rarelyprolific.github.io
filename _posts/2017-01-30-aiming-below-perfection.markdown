@@ -2,7 +2,6 @@
 layout: post
 title:  "Aiming below perfection"
 date:   2017-01-30 20:55:00 +0000
-permalink: "aiming-below-perfection"
 ---
 
 What I am about to write about is not a new and revolutionary idea. It's something I've read about countless times before.

@@ -7,6 +7,7 @@ layout: default
             <article>
                 <header>
                     <h2><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h2>
+                    <h4>{{ post.date | date: "%b %-d, %Y" }}</h4>
                 </header>
                 <section class="post-content">
                     {{ post.excerpt }}
@@ -28,10 +29,12 @@ layout: default
                 <section class="excerpt">
                 <header>
                     <h3><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h3>
+                    <h4>{{ post.date | date: "%b %-d, %Y" }}</h4>
                 </header>
                 
                     {{ post.content | truncatewords: 30 | strip_html }}
                 </section>
+				<br />
                 <footer>
                     <ul class="actions">
                         <li><a href="{{ site.baseurl }}{{ post.url }}" class="button">Read More</a></li>
