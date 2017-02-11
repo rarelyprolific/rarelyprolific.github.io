@@ -18,7 +18,7 @@ This is where you dive into the stylesheets and possibly end up getting frustrat
 **CSS is incredibly flexible.** The cost of this level of power is that you need to take a little time to understand how it works. If your approach
 to styling is googling how to affect an element, ending up on w3schools.com and pasting a style into your code. **You may be doing it wrong!**
 
-![CSS Joke by CommitStrip](images/commitstrip-css-joke.jpg)
+![CSS Joke by CommitStrip](/images/commitstrip-css-joke.jpg)
 *[CSS Comic](http://www.commitstrip.com/en/2014/09/26/the-worst-issues-are-not-always-where-you-would-expect-them/) courtesy
 of [CommitStrip](http://www.commitstrip.com)*
 
