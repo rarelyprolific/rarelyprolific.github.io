@@ -161,6 +161,15 @@
     .clear {
         clear: both;
     }
+	
+	.justified-flexbox {
+		display: flex; 
+		justify-content: space-between;
+	}
+	
+	.next-link {
+		margin-left: auto;
+	}
 
 /* Section/Article */
 

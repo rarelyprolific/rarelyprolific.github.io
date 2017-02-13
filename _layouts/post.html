@@ -12,11 +12,11 @@ layout: default
             {{ content }}
         </section>
         
-        <footer>
+        <footer class="justified-flexbox">
             {% if page.previous %}
-            <a href="{{ page.previous.url }}" class="float-left">&larr; Previous post</a> {% endif %}
+            <a href="{{ page.previous.url }}">&larr; Previous post</a> {% endif %}
             {% if page.next %}
-            <a href="{{ page.next.url }}" class="float-right">Next post &rarr;</a> {% endif %}
+            <a href="{{ page.next.url }}" class="next-link">Next post &rarr;</a> {% endif %}
         </footer>
 
     </div>
