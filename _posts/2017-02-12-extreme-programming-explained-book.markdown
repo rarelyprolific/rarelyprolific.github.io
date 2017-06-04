@@ -2,6 +2,7 @@
 layout: post
 title:  "Extreme Programming Explained - Book"
 date:   2017-02-12 19:00:00 +0000
+comments: true
 ---
 
 Before I became a developer I thought that the most important skill for the role was hard technical knowledge. That is, being fluent in a few popular

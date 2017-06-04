@@ -2,6 +2,7 @@
 layout: post
 title:  "Just learn anything!"
 date:   2017-04-09 14:10:00 +0000
+comments: true
 ---
 
 Trying to decide what to learn next is something I hear discussed a lot between developers. Sooner or later the topic of conversation usually ends up talking about whatever technologies are most useful to employers based on whatever the latest job vacancies are listing as **"essential skills"**.

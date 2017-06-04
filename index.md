@@ -7,7 +7,7 @@ layout: default
             <article>
                 <header>
                     <h2><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h2>
-                    <h4>{{ post.date | date: "%b %-d, %Y" }}</h4>
+                    <h4>{{ post.date | date: "%b %-d, %Y" }} • <a href="http://www.rarelyprolific.co.uk{{ post.url }}#disqus_thread">0 Comments</a></h4>
                 </header>
                 <section class="post-content">
                     {{ post.excerpt }}
@@ -29,7 +29,7 @@ layout: default
                 <section class="excerpt">
                 <header>
                     <h3><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h3>
-                    <h4>{{ post.date | date: "%b %-d, %Y" }}</h4>
+                    <h4>{{ post.date | date: "%b %-d, %Y" }} • <a href="http://www.rarelyprolific.co.uk{{ post.url }}#disqus_thread">0 Comments</a></h4>
                 </header>
                 
                     {{ post.content | truncatewords: 30 | strip_html }}
