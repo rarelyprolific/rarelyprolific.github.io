@@ -1,0 +1,10 @@
+services:
+  jekyll:
+    # FIXME: Currently using an old Jekyll image as the site is currently Ruby 2. Figure out how to get it upgraded.
+    # We want to use "image: jekyll/jekyll:latest" and Ruby 3. Solve kramdown/rexml dependency issues.
+    image: jekyll/jekyll:3.8
+    command: jekyll serve
+    ports:
+      - "4000:4000"
+    volumes:
+      - .:/srv/jekyll
