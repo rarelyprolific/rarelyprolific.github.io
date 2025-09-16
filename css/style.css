@@ -868,7 +868,7 @@
 			input[type="reset"].special:hover,
 			input[type="button"].special:hover,
 			.button.special:hover {
-				background-color: #5ed0b1;
+				background-color: #91C2B9;
 			}
 
 			input[type="submit"].special:active,
@@ -942,7 +942,7 @@
 
 	#header {
 		background: #27393B;
-		color: #d1f1e9;
+		color: #AAE3D9;
 		height: 100%;
 		position: fixed;
 		text-align: center;
@@ -964,7 +964,7 @@
 		}
 
 		#header a {
-			color: #d1f1e9;
+			color: #AAE3D9;
 		}
 
 			#header a:hover {
@@ -987,7 +987,7 @@
 			}
 
 			#header > header p {
-				color: #d1f1e9;
+				color: #AAE3D9;
 				font-style: italic;
 				margin: 1em 0 0 0;
 			}
