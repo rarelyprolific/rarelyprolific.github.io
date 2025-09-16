@@ -11,3 +11,4 @@ This also means I can keep track of what I've both learnt and am still learning 
 between subjects which interest me from month to month.
 
 - [JavaScript](javascript.html)
+- [Cheatsheet](cheatsheet.html)
