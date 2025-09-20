@@ -2,7 +2,6 @@
 layout: post
 title:  "Extreme Programming Explained - Book"
 date:   2017-02-12 19:00:00 +0000
-comments: true
 ---
 
 Before I became a developer I thought that the most important skill for the role was hard technical knowledge. That is, being fluent in a few popular
@@ -23,7 +22,7 @@ You start the work by figuring out what you need to develop? What should it do a
 questions can often only be found by initiating conversations with the business, or non-technical people in the organisation who have first-hand
 knowledge of the business requirement you are attempting to fulfil. But developers will often look to the code to try and find answers there instead
 of prompting a dialogue: *We can poke around in the data until it makes sense? There must be an existing class that does the same kinda thing
-we can use/modify?* 
+we can use/modify?*
 
 The result is often that a development team will slave over a product for months but working off the bare bones of a specification. They'll do their best to
 implement features they think the business needs. Code will get over-engineered with additions that no one asked for. Features the business does

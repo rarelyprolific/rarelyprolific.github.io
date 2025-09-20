@@ -2,7 +2,6 @@
 layout: post
 title:  "Introducing two-way communications"
 date:   2017-06-04 11:25:00 +0000
-comments: true
 ---
 
 Up until today this blog was missing an important feature.

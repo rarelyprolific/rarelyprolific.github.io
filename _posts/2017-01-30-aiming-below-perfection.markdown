@@ -2,7 +2,6 @@
 layout: post
 title:  "Aiming below perfection"
 date:   2017-01-30 20:55:00 +0000
-comments: true
 ---
 
 What I am about to write about is not a new and revolutionary idea. It's something I've read about countless times before.
@@ -26,7 +25,7 @@ it. You can fix it up along the way but you've started.
 
 I've been meaning to start this blog for roughly five years now. Yeah, you heard that right.. **FIVE YEARS!** So just after last Christmas
 I set myself a goal that I would have something up and running and at least one blog post published by the end of January 2017.
-*(This is post two so I'm exceeding my own expectations here!)* 
+*(This is post two so I'm exceeding my own expectations here!)*
 
 If I'm honest about the process. I did procrastinate horrifically at times and the scope crept up significantly. The following blocked me:
 
@@ -39,7 +38,7 @@ If I'm honest about the process. I did procrastinate horrifically at times and t
 - Getting it all building locally and committing to Github
 - **WRITING AND PUBLISHING A BLOG POST!**
 
-So I must be happy now. Yes, it's working.. I've got something done and you are reading this *(hopefully reading down this far too!)* 
+So I must be happy now. Yes, it's working.. I've got something done and you are reading this *(hopefully reading down this far too!)*
 It's far from finished though and there is a ton of stuff I still want to improve, such as:
 
 - I need to tag my posts and articles with categories

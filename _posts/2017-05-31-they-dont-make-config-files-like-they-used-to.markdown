@@ -2,7 +2,6 @@
 layout: post
 title:  "They don't make config files like they used to"
 date:   2017-05-31 21:25:00 +0000
-comments: true
 ---
 
 I was having a think about configuration file formats the other day and it occurred to me that so-called legacy configuration file formats could be better than

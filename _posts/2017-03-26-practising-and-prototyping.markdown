@@ -2,7 +2,6 @@
 layout: post
 title:  "Practising and Prototyping"
 date:   2017-03-26 20:10:00 +0000
-comments: true
 ---
 
 This is a continuation of my first blog post, [Innovation, learning and biting off more than you can chew](/2017/01/25/innovation-and-learning.html), which

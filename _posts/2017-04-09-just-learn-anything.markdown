@@ -2,7 +2,6 @@
 layout: post
 title:  "Just learn anything!"
 date:   2017-04-09 14:10:00 +0000
-comments: true
 ---
 
 Trying to decide what to learn next is something I hear discussed a lot between developers. Sooner or later the topic of conversation usually ends up talking about whatever technologies are most useful to employers based on whatever the latest job vacancies are listing as **"essential skills"**.
@@ -29,6 +28,6 @@ Here's another: Which JavaScript framework should you learn? Again, I say any! I
 
 To sum up: **I believe that, as a developer, doing ANY programming-related activity increases your knowledge. Swapping between languages and programming paradigms gets you thinking about problems and their solutions in different ways.**
 
-I don't think there is anything I've ever learnt about computers and technology that I would consider to be a waste of time. 
+I don't think there is anything I've ever learnt about computers and technology that I would consider to be a waste of time.
 
 My current obsession is the [PICO-8](http://www.lexaloffle.com/pico-8.php) fantasy console. It's an emulator for an 8-bit console that doesn't exist! You code it in Lua and it contains a complete suite of embedded development tools. It's a crazy amount of fun!

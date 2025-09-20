@@ -2,7 +2,6 @@
 layout: post
 title:  "The problem with CSS"
 date:   2017-02-11 12:30:00 +0000
-comments: true
 ---
 
 As a web developer *(as opposed to a web designer)* I have a love/hate relationship with CSS.
@@ -14,7 +13,7 @@ and put all my time and effort into the server-side logic.
 So Bootstrap is wonderful but you do end up in the situation where your site looks like every other generic Bootstrap site. It's kind of like
 WinForms for the web. Sooner or later you will want to customise your styling and attempt to give it your own touch, however minor or major.
 
-This is where you dive into the stylesheets and possibly end up getting frustrated! 
+This is where you dive into the stylesheets and possibly end up getting frustrated!
 
 **CSS is incredibly flexible.** The cost of this level of power is that you need to take a little time to understand how it works. If your approach
 to styling is googling how to affect an element, ending up on w3schools.com and pasting a style into your code. **You may be doing it wrong!**
@@ -123,4 +122,4 @@ after the fact really works.. You end up just scrapping the stylesheet and start
 straightforward stylesheet you can. The prospect of changing or adding a style in the future should not fill you with dread.
 
 - **This is not a CSS tutorial or even a guide to best practice:** There are numerous great tutorials for CSS on the web so please don't trust my opinions on this page as even being examples
-of best practice. *I'm a developer, not a designer.* What I hope I have shown you is how to avoid a few gotchas and what you can research to be able to tackle CSS with confidence. 
+of best practice. *I'm a developer, not a designer.* What I hope I have shown you is how to avoid a few gotchas and what you can research to be able to tackle CSS with confidence.

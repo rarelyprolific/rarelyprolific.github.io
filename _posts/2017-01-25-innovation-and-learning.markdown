@@ -2,7 +2,6 @@
 layout: post
 title:  "Innovation, learning and biting off more than you can chew"
 date:   2017-01-25 21:55:00 +0000
-comments: true
 ---
 
 There is a constant drive for innovation in software development. Organisations want to be seen to be embracing new technology and
