@@ -4,6 +4,8 @@ title:  "Introducing two-way communications"
 date:   2017-06-04 11:25:00 +0000
 ---
 
+**⚠️ Update for 2025. Disqus was removed. See [here]({% post_url 2025-09-20-refurbished-for-2025 %}) for more details. ⚠️**
+
 Up until today this blog was missing an important feature.
 
 Here I am putting the world to rights and no one can scream back at me that I'm talking complete rubbish. Now they can because I've integrated comments on my blog
@@ -19,4 +21,4 @@ something I have written then it makes the effort more than worthwhile.
 
 Also, I don't expect people to agree with everything I write. I'd like to think I have some good ideas now and again but I'm old enough to know I'm probably being
 naive and ignorant when I comment about subjects I don't have much experience with. I do try to keep an open mind though and welcome any alternative views and
-constructive critisium.
+constructive criticism.
