@@ -275,7 +275,6 @@ PLATFORMS
 
 DEPENDENCIES
   github-pages
-  jekyll-feed (~> 0.6)
 
 RUBY VERSION
    ruby 3.1.1p18
