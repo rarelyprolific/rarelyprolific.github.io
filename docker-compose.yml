@@ -1,8 +1,9 @@
 services:
   jekyll:
-    # FIXME: Currently using an old Jekyll image as the site is currently Ruby 2. Figure out how to get it upgraded.
-    # We want to use "image: jekyll/jekyll:latest" and Ruby 3. Solve kramdown/rexml dependency issues.
-    image: jekyll/jekyll:3.8
+    # Jekyll and Ruby debugging tip (when necessary!):
+    # Use "command: tail -f /dev/null" to run the container without starting to serve the jekyll pages.
+    # Then use "docker compose exec jekyll bash" to get a shell into the container to run jekyll commands.
+    image: jekyll/jekyll
     command: jekyll serve
     ports:
       - "4000:4000"
