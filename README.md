@@ -1,5 +1,5 @@
 # rarelyprolific.github.io
 
-My GitHub Pages / Jekyll blog site for technical stuff from 2017 getting a refresh for 2025!
+My personal blog site for technical stuff.
 
 You can see it at [https://www.rarelyprolific.co.uk](https://www.rarelyprolific.co.uk).
